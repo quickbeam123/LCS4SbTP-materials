@@ -73,9 +73,9 @@ SMTLIB:
   from the respective sub-logic sub-projects, 
   with commits not younger than January 2020.
 
-- for to obtain vampire executable of the right version, see TPTP above
+- for an info on how to obtain vampire executable of the right version, see TPTP above
 
-- the scripts to run the experiment works the same as those for TPTP
+- the scripts to run the experiment work the same as those for TPTP
 
 - to scan the <target_folder_for_the_logs> here, run
 
